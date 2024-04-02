@@ -1,0 +1,5 @@
+datos clientes
+nombre
+cedula
+telefono
+direccion
